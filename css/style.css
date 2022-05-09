@@ -1,0 +1,23 @@
+.box{
+    margin: 50px 100px;
+}
+
+.square{
+   width: 150px;
+   height: 150px;
+}
+
+.fizz_buzz {
+    background-color: red;
+}
+
+.fizz {
+    background-color: green;
+}
+
+.buzz{
+    background-color: yellow;
+}
+.other{
+    background-color: blue;
+}
